@@ -16,4 +16,5 @@ I was successfully able to create and simulate a multistage amplifer using MULTI
 
 Below is an image of the final schematic of the amplifer created:
 
-![image](https://github.com/user-attachments/assets/24bdf6cb-6447-4040-ae1f-cf13549bab00)
+![image](https://github.com/user-attachments/assets/e70329db-9d8a-4271-87ba-3283c14f9389)
+
